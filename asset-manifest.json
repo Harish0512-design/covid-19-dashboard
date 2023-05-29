@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Harish0512-design/covid-19-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/Harish0512-design/covid-19-dashboard/static/js/main.a1f776aa.js",
+    "index.html": "/Harish0512-design/covid-19-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/Harish0512-design/covid-19-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.a1f776aa.js.map": "/Harish0512-design/covid-19-dashboard/static/js/main.a1f776aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a1f776aa.js"
+  ]
+}
